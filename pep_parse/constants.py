@@ -3,7 +3,6 @@ from pathlib import Path
 
 # PathConstants:
 BASE_DIR = Path(__file__).parent
-NAME_DIR_RESULTS = 'results'
 FILE_NAME_STATUS = 'status_summary_'
 PATH_NAME_RESULTS = 'results/'
 FILE_NAME_PEP = 'pep_%(time)s.csv'
